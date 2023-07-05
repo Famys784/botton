@@ -1,3 +1,6 @@
-body{
-  background-color: aqua;
+.navbar{
+    text-align: right;
 }
+body{
+    background-color: aqua;
+  }
